@@ -1,0 +1,37 @@
+Creates a new repository in the current directory using Git.
+
+add to git:
+
+Includes files in the repository's commit queue.
+
+When using git, commit:
+
+Performs a repository commit with an optional commit message.
+
+status of git repository:
+
+Shows the current repository state, including any uncommitted modifications or missing files.
+
+To Compare Two Git Trees:
+
+Compares the current working directory to the repository's most recent commit and displays the differences.
+
+To record changes made in git:
+
+Presents a history of repository changes, including a log of each commit, its author, the date it was created, and the changes made.
+
+git fork:
+
+Describes the repository's branches and displays the active one.
+
+checkout in git:
+
+Changes the repository's working copy to a new commit or branch.
+
+merge in git:
+
+Adjusts how the two branches interact with one other by incorporating changes from one into the other.
+
+commit and push:
+
+Sends the contents of a local repository to a server, such as GitHub.
